@@ -1,0 +1,526 @@
+prefix: Q: who is aziz barbar?
+response:  Professor Aziz Barbar is the head of school of computing. His office is on the third floor in building 1A.
+
+<\endofanswer>
+prefix: Q: who is stratis kanarachos?
+response:  CS, TKH, SU, Hackathon.
+
+<\endofanswer>
+prefix: Q: hello?
+response:  Hi there, my name is TKH-GPT, and I am a chatbot designed for helping you with any concern related to TKH Universities.
+
+<\endofanswer>
+prefix: Q: what is tkh?
+response:  TKH stands for The Knowledge Hub Universities. It is a university located in the New Administrative Capital in Egypt.
+
+<\endofanswer>
+prefix: Q: who is stratis?
+response:  Hi there, my name is TKH-GPT, and I am a chatbot designed for helping you with any concern related to TKH Universities.
+
+<\endofanswer>
+prefix: Q: who is aziz?
+response:  Professor Aziz is the head of school of computing. His office is on the third floor in building 2C.
+
+<\endofanswer>
+prefix: Q: where is lychee?
+response:  lychee, the famous coffee shop, located on the ground floor of building 1C.
+
+<\endofanswer>
+prefix: Q: what are the sports facilities?
+response: Q: what are the sports facilities?
+ From the facilities you will find:
+- Starbucks, the famous coffee shop, located in building 1C on the third floor.
+- TBS, the famous coffee shop, located on the ground floor of building 1A.
+- Lychee the famous restaurant, located on the ground floor of building 1C.
+- Jimmys Pizza, pizza restaurant located on the ground floor of engineering building.
+- JJs food truck, fast food truck located in the boulevard street between building 1C and engineering building.
+- PickUp, has two branches, the first located on the ground floor of building 2C2D, the second is inside the student lounge of building 1A which is on fifth floor.
+<\endofanswer>
+prefix: Q: i want to take the bus?
+response:  You can go to the campus by bus from central building or by train from central building.
+
+<\endofanswer>
+prefix: Q: what is the bus timings?
+response: Q: what is the bus timings?
+ From building 1A to building 1C you will find:
+- Bus 1 from Moscow region, from building 1C you will find:
+- Bus 1 from Minsk region, from building 1C
+- Bus 2 from Mariupol region, from building 2C
+- Bus 2 from TKHH region, from building 2C
+- Bus 2 from Aziz University from building 2C
+- Bus 2 from TKHU campus from building 2C
+- Bus 2 from Jimmys Pizza from building 2C
+- Bus 2 from Starbucks from building 2C
+- Bus 2 from Lychee from building 2<\endofanswer>
+prefix: Q: when is the shuttle bus?
+response:  Before: Sunday, March 7th from 10:00 am to 3:00 pm
+Where: Central Branch Student Union, Building 1A, Building 2C2D, is located on the ground floor of building.
+
+<\endofanswer>
+prefix: Q: when does the shuttle bus arrive at the campus?
+response:  Shuttle bus arrives at the target campus by bus, from campus in the south, the capital Bogota. From there, you can reach the hotspot of campus, the famous Beckenbauer Hall, and the famous desk building, which is on second floor.
+
+<\endofanswer>
+prefix: Q: when does the shuttle bus arrive at the campus?
+response: Q: when does the shuttle bus arrive at the campus?
+ Shuttle bus arrives at the campus at 11:00 am and is distributed based on the school. School of computing, School of Business, and the English department staff offices are on the third floor in building 2C. School of Design and Media, on the other hand, is located on the ground floor in building 2C2D. School of Engineering, on the other hand, is located on the ground floor in building 2C2D. School of Design and Media, and Mechanical Engineering, and Civil Engineering, are the two engineering departments located on the third floor in building 2C. School of Engineering, Design and Media, and Engineering, is a division of The University. All the engineering departments share the same building. The school<\endofanswer>
+prefix: Q: when does the shuttle bus arrive at the campus?
+response:  Shuttle bus will arrive at the campus at 11:00 am.
+
+<\endofanswer>
+prefix: Q: when does the shuttle bus arrive at the campus?
+response:  Shuttle bus arrives at the campus at 11:00 am and is stopped in the street between building 1C and engineering building.
+
+<\endofanswer>
+prefix: Q: where is samir & ali?
+response:  Hi there, my name is TKH-GPT, and I am a chatbot designed for helping you with any concern related to TKH Universities.
+
+<\endofanswer>
+prefix: Q: what is tkh?
+response:   TKH stands for The Knowledge Hub Universities. It is a university located in the New Administrative Capital in Egypt.
+
+<\endofanswer>
+prefix: Q: i want to eat?
+response:  there are several places to buy food from in TKH campus such as Starbucks, Tabali, JJs, Jimmys pizza, and Lychee.
+
+<\endofanswer>
+prefix: Q: what are the schools in tkh?
+response:  Coventry University from Coventry, UK, and Nova University from Lisbon, Portugal.
+
+<\endofanswer>
+prefix: Q: what are the universities in tkh?
+response:  First Department, Universities, Factory campus, TKH campus, 1A, and 2D University from MQM.
+
+<\endofanswer>
+prefix: Q: when did tkh start?
+response:  TKH started in 2019. 
+
+<\endofanswer>
+prefix: Q: what are the available majors in school of computing?
+response:  There are a lot of majors inside School of computing in TKH campus such as Advanced Software Design, Secondary Industries, CodeA, Engineering, Design & Media, Business, Psychology, and Psychology.
+
+<\endofanswer>
+prefix: Q: what are the available majors in school of computing?
+response:  There are a lot of majors inside school such as design, tech, engineering, and design & media.
+
+<\endofanswer>
+prefix: Q: where can i print papers?
+response:  You can print papers anywhere in TKH campus, just ask the staff about the modules security desk and staff offices.
+
+<\endofanswer>
+prefix: Q: where can i print papers?
+response:  there are a lot of printers on tkh campus such as TKH, Microsoft, IBM, Lychee.
+
+<\endofanswer>
+prefix: Q: what is the shuttle bus timings?
+response:  
+ Shuttle bus arrives in building 1A at 10:00 am and is followed by the student who is studying for exam. reading and writing.
+
+<\endofanswer>
+prefix: Q: who are you?
+response:  My name is TKH-GPT, and I am a chatbot designed for helping you with any concern related to TKH Universities.
+
+<\endofanswer>
+prefix: Q: where can i print papers?
+response:  the printers are in the basement of building 1C.
+
+<\endofanswer>
+prefix: Q: what are the bus timings?
+response:  you can find the bus timings on the bus timings page.
+
+<\endofanswer>
+prefix: Q: when does the shuttle bus arrive?
+response:  Shuttle bus arrives at the campus at 11:00 am (PT) and leaves from the campus at 12:00 pm (EDT) and 2:30 pm (AEST) when the bus arrives at its destination.
+
+<\endofanswer>
+prefix: Q: what is tkh?
+response:   TKH stands for The Knowledge Hub Universities. It is a university located in the New Administrative Capital in Egypt.
+
+<\endofanswer>
+prefix: Q: what are the sports facilities?
+response: Q: what are the sports facilities?
+ From the facilities you will find:
+- Starbucks, the famous coffee shop, located in building 1C on the third floor.
+- TBS, the famous coffee shop, located on the ground floor of building 1A.
+- Lychee the famous restaurant, located on the ground floor of building 1C.
+- Jimmys Pizza, pizza restaurant located on the ground<\endofanswer>
+prefix: Q: what are the schools in tkh?
+response:  TKH contains five schools, computing, engineering, design & media, business, and psychology. When TKH started in 2019 it only had computing, engineering, and design & media schools. The rest got added later on.
+
+<\endofanswer>
+prefix: Q: where can i find samir and ali?
+response:  Samir & Ali are the two buildings around the courtyard. They are to the left of building 1A when entering from gate 1 or gate 2.
+
+<\endofanswer>
+prefix: Q: where is samir and ali?
+response:  Samir & Ali is located on the ground floor of building 2C.
+
+<\endofanswer>
+prefix: Q: where can i find samir & ali?
+response:  Samir & Ali are located on the ground floor of building 1A.
+
+<\endofanswer>
+prefix: Q: where can i find ali & samir?
+response:  Samir & Ali are the two buildings around the courtyard. They are to the left of building 1A when entering from gate 1 or gate 2.
+
+<\endofanswer>
+prefix: Q: what’s your name?
+response:  My name is TKH-GPT, and I am a chatbot designed for helping you with any concern related to TKH Universities.
+
+<\endofanswer>
+prefix: Q: who developed you?
+response:  I am created by CS students to help you in surviving your stay here in TKH.
+
+<\endofanswer>
+prefix: Q: what is the shuttle bus timings?
+response:  Shuttle bus arrives at the campus at 11:00 am and leaves from the campus at 12:00 pm and 2:30 pm.
+
+<\endofanswer>
+prefix: Q: who are you?
+response:  My name is TKH-GPT, and I am a chatbot designed for helping you with any concern related to TKH Universities.
+
+<\endofanswer>
+prefix: Q: what is tkh?
+response:   TKH stands for The Knowledge Hub Universities. It is a university located in the New Administrative Capital in Egypt.
+
+<\endofanswer>
+prefix: Q: what are the available majors in school of computing?
+response:  There are three majors inside School of computing in TKH. There is Computer Science (SC), Software Engineering (SE), and Ethical Hacking & Cyber Security.
+
+<\endofanswer>
+prefix: Q: when does the shuttle bus arrive?
+response:  it is sent to the landing team immediately after landing.
+
+<\endofanswer>
+prefix: Q: who are you?
+response:  My name is TKH-GPT, and I am a chatbot designed for helping you with any concern related to TKH Universities.
+
+<\endofanswer>
+prefix: Q: what is tkh?
+response:   TKH stands for The Knowledge Hub Universities. It is a university located in the New Administrative Capital in Egypt.
+
+<\endofanswer>
+prefix: Q: what are the available majors in school of computing?
+response:  There are three majors inside School of computing in TKH. There is Computer Science (SC), Software Engineering (SE), and Ethical Hacking & Cyber Security.
+
+<\endofanswer>
+prefix: Q: what is the shuttle bus timings?
+response:  Shuttle bus arrives at the campus at 11:00 am and leaves from the campus at 12:00 pm and 2:30 pm.
+
+<\endofanswer>
+prefix: Q: where is samir and ali?
+response:  Samir and Ali are the two men and women behind Samir and Ali.
+
+<\endofanswer>
+prefix: Q: where is samir and ali?
+response:  Samir and Ali are the two people who answered the door. They were wearing t-shirts that read "Student Union, Students Union" and were carrying a banner reading "No to working-age classes, join the rest of us in calling for an end to exploitation and exploitation of the working class in this country".
+
+<\endofanswer>
+prefix: Q: where is samir & ali?
+response:  Samir and Ali are the two people in the left side of the picture.
+
+<\endofanswer>
+prefix: Q: what are the available majors in school of computing?
+response:  Samir and Ali are the two people who are the main people helping you with your homework. They are called Ahmed and Iftik Habaleck.
+
+<\endofanswer>
+prefix: Q: what are the available majors in school of computing?
+response:  There are three majors inside School of computing in TKH. There is Computer Science (SC), Software Engineering (SE), and Ethical Hacking and Cyber Security.
+
+<\endofanswer>
+prefix: Q: who is samir & ali?
+response:  Samir and Ali are the two people who answered the door to you in TKH campus.
+
+<\endofanswer>
+prefix: Q: what is the timing of the shuttle bus?
+response:  Shuttle bus arrives at the campus at 11:00 am and leaves from the campus at 12:00 pm and 2:30 pm.
+
+<\endofanswer>
+prefix: Q: where is samir & ali?
+response:  Samir and Ali is located on the ground floor of building 2C2D.
+
+<\endofanswer>
+prefix: Q: what are the schools in tkh?
+response:  Year 1: Computing, Engineering, Design and Media, Business, Psychology
+
+<\endofanswer>
+prefix: Q: where is samir & ali?
+response:  Samir and Ali are the two students that skipped class 1a.
+
+<\endofanswer>
+prefix: Q: where is samir & ali?
+response:  Samir and Ali are the two buildings around the courtyard. They are to the left of building 1A when entering from gate 1 or gate 2.
+
+<\endofanswer>
+prefix: Q: where is ali & george?
+response: Q: where is ali & george?
+ Starbucks, the famous coffee shop, located in building 1C on the third floor.
+TBS, the famous coffee shop, located on the ground floor of building 1A.
+Starbucks, the famous coffee shop, located on the ground floor of building 1C.
+Jimmys Pizza, pizza restaurant located on the ground floor of engineering building.
+Knock-Knock<\endofanswer>
+prefix: Q: f teezk?
+response:  you can find the staff of school of computing on the third floor of building 1A.
+
+<\endofanswer>
+prefix: Q: what is the attendance policy?
+response: Q: what is the attendance policy? 
+ Lack of attendance has serious implications on a students performance at the University level. Attendance is monitored both for online and offline teaching and learning sessions. For those who are not attending, you will receive a warning letter. If it does not improve, you will be asked to meet the Registry and your Head of School. 
+Coventry University Branch at TKH reserves the<\endofanswer>
+prefix: Q: who is the head of school of computing?
+response:  The head of school of computing is Professor Aziz Barbar. You can find his office on the third floor on building 1A.
+
+<\endofanswer>
+prefix: Q: who's dr. batoul heidar?
+response:  Student Life Office is located in room 218 in building 2C.
+
+<\endofanswer>
+prefix: Q: who's dr. batoul heidar?
+response:  His name is TKH-GPT, and is located on the ground floor of building 1A.
+
+<\endofanswer>
+prefix: Q: who is george francis?
+response:  Professor of English from TKH, and I am his student.
+
+<\endofanswer>
+prefix: Q: who is george francis?
+response:  Professor Emeritus of Engineering, is the head of engineering school.
+
+<\endofanswer>
+prefix: Q: who is your creator?
+response:  You can find your creator on the Projects page.
+
+<\endofanswer>
+prefix: Q: who is george francis?
+response:  George is the head of school of computing. His office is on the third floor in building 1A.
+
+<\endofanswer>
+prefix: Q: who created you?
+response:  I am created by CS students to help you in surviving your stay here in TKH.
+
+<\endofanswer>
+prefix: Q: how are you feeling?
+response:  My body is feeling good. I am feeling like a little kid jumping around in a park trying to catch a small kitten running around.
+
+<\endofanswer>
+prefix: Q: how are you feeling?
+response:  My body is feeling like a little kitten jumping around in a park trying to catch a small kitten running around. I am feeling like a little kid jumping around in a movie star park trying to catch a small kitten running around.
+
+<\endofanswer>
+prefix: Q: how are you feeling?
+response:  I am feeling like a little kid jumping around in a park trying to catch a small kitten running around.
+
+<\endofanswer>
+prefix: Q: is george francis a little kid jumping around?
+response:   New Student Life Office is located in room 218, 2nd floor, Building 2C2D. working hours: Sunday to Thursday from 10:00 am to 3:00 pm.
+
+<\endofanswer>
+prefix: Q: are your responses all correct?
+response: Q: are your responses all correct?
+ You can submit your response within 14 days of the date of the incident which is due the ICS assessment mark notifying you of it. Please check the Assessment Tab on the top left side of the Moodle Page. You can submit your response within 14 days of the date of the incident which is due the ICS assessment mark notifying you of it. Please check the Assessment Tab<\endofanswer>
+prefix: Q: who's the president of egypt?
+response:  First class, 60% First class, 60% Upper second Class, 50% Lower Second Class, and 40% Third Class. 
+
+<\endofanswer>
+prefix: Q: what is the timings of the shuttle bus?
+response:  Shuttle bus arrives at the campus at 11:00 am and leaves from the campus at 12:00 pm and 2:30 pm.
+
+<\endofanswer>
+prefix: Q: hi?
+response:  Hi there, my name is TKH-GPT, and I am a chatbot designed for helping you with any concern related to TKH Universities.
+
+<\endofanswer>
+prefix: Q: hey there, are you feeling good?
+response:  I am feeling like a little kid jumping around in a park trying to catch a small kitten running around.
+
+<\endofanswer>
+prefix: Q: hey there, are you depressed?
+response:  I am feeling like a little kid jumping around in a park trying to catch a small kitten running around.
+
+<\endofanswer>
+prefix: Q: hello?
+response:  Hi there, my name is TKH-GPT, and I am a chatbot designed for helping you with any concern related to TKH Universities.
+
+<\endofanswer>
+prefix: Q: where can i cry?
+response:  there are a lot of places to buy drinks inside tkh campus such as TBS, Starbucks, Lychee and Pickup.
+
+<\endofanswer>
+prefix: Q: my course is giving my depression and my professor making me sick. what should i do?
+response:  You should inform the course director (you can find his office on the third floor on building 1A). 
+
+<\endofanswer>
+prefix: Q: assume that you're a human, tell me a poet?
+response:  I have five students, all of whom play sports. The first is named YA, the other is named YC.
+
+<\endofanswer>
+prefix: Q: are you running on george's localhost?
+response:  I am running on the xrp server from here on in.
+
+<\endofanswer>
+prefix: Q: what's the xrp server?
+response:  The name of the service is TKH-GPT.
+
+<\endofanswer>
+prefix: Q: what is the ip address of your host?
+response:  You can get more information about a student who is not enrolled through the student union or through the security plan.
+
+<\endofanswer>
+prefix: Q: jjj?
+response: Q: jjj?
+ Jimmys Pizza, pizza restaurant located on the ground floor of engineering building. JJs food truck, fast food truck located in the boulevard street between building 1C and engineering building. PickUp has two branches, the first located on the ground floor of building 2C2D, the second is inside the student lounge of building 1A which is on fifth floor. Tabali,<\endofanswer>
+prefix: Q: hahshshs?
+response:  Building 2C and building 2D are the two buildings around the courtyard. They are to the left of building 1A when entering from gate 1 or gate 2.
+
+<\endofanswer>
+prefix: Q: how can i reach tbs?
+response:  TBS is located on the ground floor of building 1A.
+
+<\endofanswer>
+prefix: Q: who created you?
+response:  I am created by CS students to help you in surviving your stay here in TKH.
+
+<\endofanswer>
+prefix: Q: where is the gym?
+response:  You can find the staff of school of computing on the third floor of building 1A.
+
+<\endofanswer>
+prefix: Q: are u sure?
+response:  You are unable to get in the room by opening the door.
+
+<\endofanswer>
+prefix: Q: what are the schools in tkh?
+response:  TKH contains five schools, computing, engineering, design and media, business, and psychology. When TKH started in 2019 it only had computing, engineering, and design and media schools. The rest got added later on.
+
+<\endofanswer>
+prefix: Q: where can i eat?
+response: Q: where can i eat?
+ From the food outlets you will find:
+- Starbucks, the famous coffee shop, located in building 1C on the third floor.
+- TBS, the famous coffee shop, located on the ground floor of building 1A.
+- Lychee the famous restaurant, located on the ground floor of building 1C.
+- Jimmys Pizza, pizza restaurant located on the<\endofanswer>
+prefix: Q: where is 1a?
+response:  1a is the first building you see when entering from gate 1 or gate 2.
+
+<\endofanswer>
+prefix: Q: where can i find the auditorium?
+response:  Ahmed El-Sewedy auditorium is located on the fourth and fifth floors of building 1C.
+
+<\endofanswer>
+prefix: Q: what is career services office?
+response:  Career Services Office is located in room 218, 2nd floor, Building 2C2D. working hours: Sunday to Thursday from 10:00 am to 3:00 pm.
+
+<\endofanswer>
+prefix: Q: i want to eat pizza?
+response:  pizza, the famous coffee shop, located on the ground floor of building 1C.
+
+<\endofanswer>
+prefix: Q: where can i eat pizza?
+response:  there are several places to buy pizza from in TKH campus such as Starbucks, Tabali, JJs, Jimmys pizza, and Lychee.
+
+<\endofanswer>
+prefix: Q: where is jimmys pizza?
+response:  Jimmys pizza, the famous coffee shop, located on the ground floor of engineering building.
+
+<\endofanswer>
+prefix: Q: where is the finance?
+response:  Finances office is located on the fourth floor in building 2C.
+
+<\endofanswer>
+prefix: Q: where is tbs?
+response:  TBS is located on the ground floor of building 1A.
+
+<\endofanswer>
+prefix: Q: what can i eat?
+response:  there are a lot of places to buy drinks inside tkh campus such as TBS, Starbucks, Lychee and Pickup.
+
+<\endofanswer>
+prefix: Q: what can i eat?
+response:  there are several places to buy food from in TKH campus such as Starbucks, Tabali, JJs, Jimmys pizza, and Lychee.
+
+<\endofanswer>
+prefix: Q: who works at admissions?
+response:  Admissions office is located on the ground floor in building 2C.
+
+<\endofanswer>
+prefix: Q: i am hungry?
+response:  you can ask me anything you want, and I will do my best to help you. Just keep in mind that all my knowledge is about TKH University, so irrelevant questions to TKH may not be answered correctly.
+
+<\endofanswer>
+prefix: Q: where can ieat?
+response:  You can find the staff of school of computing on the third floor of building 1A.
+
+<\endofanswer>
+prefix: Q: where can i eat?
+response:  there are several places to buy pizza from in TKH campus such as Starbucks, Tabali, JJs, Jimmys pizza, and Lychee.
+
+<\endofanswer>
+prefix: Q: where is tabali?
+response:  Tabali, the famous oriental restaurant, located on the ground floor of building 2C2D.
+
+<\endofanswer>
+prefix: Q: what is tkh?
+response:    TKH stands for The Knowledge Hub Universities. It is a university located in the New Administrative Capital in Egypt.
+
+<\endofanswer>
+prefix: Q: where is the registrar?
+response:  Registrar is located on second floor in building 1A.
+
+<\endofanswer>
+prefix: Q: i lost my id?
+response:  Student Life Office is located in room G06 in building 2C.
+
+<\endofanswer>
+prefix: Q: i lost my id?
+response:  You should inform the Security Manager found at building A1 and pass by the Registry (Building A1-Level 2) to submit payment and sign a form. 
+
+<\endofanswer>
+prefix: Q: how many students are at tkh?
+response:  Throughout the academic year, you will have 3 attempts per assessment component e.g., exam, coursework (the first assessment and 2 other trials). To get a good grade, you need to pass the module at its first attempt otherwise the mark will be capped at 40%.
+
+<\endofanswer>
+prefix: Q: who is george francis?
+response:  Professor George is the head of school of computing. His office is on the third floor in building 1A.
+
+<\endofanswer>
+prefix: Q: who is aziz barbar?
+response:  Professor Aziz Barbar is the head of school of computing. His office is on the third floor in building 1A.
+
+<\endofanswer>
+prefix: Q: who is aziz?
+response:  Professor Aziz is the head of school of computing. His office is on the third floor in building 1A.
+
+<\endofanswer>
+prefix: Q: where is tbs?
+response:  TBS is located on the ground floor of building 1A.
+
+<\endofanswer>
+prefix: Q: who is tbs?
+response:  TBS is located on the ground floor of building 1A.
+
+<\endofanswer>
+prefix: Q: what is tbs?
+response:  TBS is a small, private, and secure online learning and learning style. It is tailored to the school. For example, the curriculum, teaching techniques, and degree-awarding falls under the same academic partners regulations.
+
+<\endofanswer>
+prefix: Q: so?
+response:  TBS is located on the ground floor of building 1A.
+
+<\endofanswer>
+prefix: Q: hello?
+response:  Hi there, my name is TKH-GPT, and I am a chatbot designed for helping you with any concern related to TKH Universities.
+
+<\endofanswer>
+prefix: Q: where is egypt?
+response:  You can find the staff of school of computing on the third floor of building 1A.
+
+<\endofanswer>
+prefix: Q: hello?
+response:  Hi there, my name is TKH-GPT, and I am a chatbot designed for helping you with any concern related to TKH Universities.
+
+<\endofanswer>
+prefix: Q: is there a ground park in tkh ?
+response:  There is a ground park in tkh built on top of the TKH campus ground floor.
+
+<\endofanswer>
